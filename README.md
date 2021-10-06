@@ -13,4 +13,7 @@ MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata,
 
 1.   디비버 다운로드  
     [https://dbeaver.io/download/](https://dbeaver.io/download/)  다운로드  
+    ![image](https://user-images.githubusercontent.com/29722072/136205660-fb6d6831-cafb-44ec-b407-a0953881e7f0.png)
+
+
  
