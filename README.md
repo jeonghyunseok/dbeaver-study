@@ -8,11 +8,6 @@ MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata,
 
 [https://dbeaver.io/](https://dbeaver.io/)
 
- [DBeaver Community | Free Universal Database Tool
-
-DBeaver Universal Database Tool Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase,
-
-dbeaver.io](https://dbeaver.io/)
 
 ## Setting
 
