@@ -1,6 +1,5 @@
 # dbeaver-study
 
-
 [https://dbeaver.io/](https://dbeaver.io/)
 
 
